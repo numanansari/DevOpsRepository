@@ -1,2 +1,0 @@
-# DevOpsRepository
-learning purpose
